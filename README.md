@@ -16,12 +16,6 @@ que tem sido fundamentais para meu aprendizado e servido como protótipos para m
 
 **Designer:** Figma
 
-
-## Demonstração
-
-Insira um gif ou um link de alguma demonstração
-
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tiagosouzrodrigues.github.io/my-portifolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagorodsouz/)
