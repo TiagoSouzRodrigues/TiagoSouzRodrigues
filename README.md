@@ -4,7 +4,8 @@
 
 # Olá Devs! Eu sou o Tiago! 
 
-Desde que comecei minha jornada na programação tenho postados aqui alguns mini-projetos que tem sido fundamental para meu aprendizado e servido como protótipos para minha experiência! 
+Desde que comecei minha jornada na programação tenho postados aqui alguns mini-projetos
+que tem sido fundamentais para meu aprendizado e servido como protótipos para minha experiência! 
 
 
 ## Minhas principais Stacks
